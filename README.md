@@ -1,6 +1,8 @@
 ![FSE Stock Exchange](src/assets/fsesx_logo_side.png)
 # Front End
 
+[![Build Status](https://travis-ci.org/fsesx/fsesx-front.svg?branch=master)](https://travis-ci.org/fsesx/fsesx-front)
+
 Front end for the FSE Stock Exchange. For development purposes,
 please follow instructions below.
 
